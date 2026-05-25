@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "my.render.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"render.RenderTargetMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
